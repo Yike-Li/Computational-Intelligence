@@ -1,5 +1,5 @@
 # Computational Intelligence
-This repo presents my version solutions for the computational intelligence course. 
+This repo presents my version of solutions for solving the problems in computational intelligence course. 
 
 The following topics are covered:
 * CVXPY to solve linear regression, fuzzy regression, and SVR
@@ -10,3 +10,4 @@ The following topics are covered:
   *  Genetic Algorithm (GA)
   *  Ant Colony Optimization Algorithm (ACO)
   *  Particle Swarm Optimization Algorithm (PSO)
+  *  Neural Networks
